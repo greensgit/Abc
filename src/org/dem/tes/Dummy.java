@@ -58,4 +58,7 @@ private void gpayUPI() {
 	System.out.println("This is ajith - working on gpay");
 }
 
+private void cashOnDelivery() {
+	System.out.println("This is aiswarya - working on cash");
+}
 }
