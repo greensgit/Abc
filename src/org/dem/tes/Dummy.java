@@ -54,4 +54,7 @@ private void disableKart() {
 System.out.println("This is sujitha - working on disable kart");
 }
 
+private void cashOnDelivery() {
+	System.out.println("This is aiswarya - working on cash");
+}
 }
